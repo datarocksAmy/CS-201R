@@ -1,5 +1,4 @@
 // CS 201R Assignment#1 - Simple ATM ( Deposit / Withdraw / Loan based on Credit Scores )
-// CHIA-HUI AMY LIN  16176145
 
 #include <iostream>
 #include <cmath>
